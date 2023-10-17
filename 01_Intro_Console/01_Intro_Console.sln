@@ -3,9 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_Intro_Console", "01_Intro_Console\01_Intro_Console.csproj", "{CB50EF9E-8479-4B59-9643-C6434B981D5D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01_Intro_Console", "01_Intro_Console\01_Intro_Console.csproj", "{CB50EF9E-8479-4B59-9643-C6434B981D5D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_Intro_Functions", "02_Intro_Functions\02_Intro_Functions.csproj", "{DFD46187-334A-4BC5-96B5-2C378D9C9853}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02_Intro_Functions", "02_Intro_Functions\02_Intro_Functions.csproj", "{DFD46187-334A-4BC5-96B5-2C378D9C9853}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_Encapsulation", "03_Encapsulation\03_Encapsulation.csproj", "{9643C788-C68E-448C-B9E2-75F3B25B4B8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_Polymorphism", "04_Polymorphism\04_Polymorphism.csproj", "{9A45210C-EC0A-4739-9BC5-C78342F0FC8B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{DFD46187-334A-4BC5-96B5-2C378D9C9853}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DFD46187-334A-4BC5-96B5-2C378D9C9853}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DFD46187-334A-4BC5-96B5-2C378D9C9853}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9643C788-C68E-448C-B9E2-75F3B25B4B8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9643C788-C68E-448C-B9E2-75F3B25B4B8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9643C788-C68E-448C-B9E2-75F3B25B4B8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9643C788-C68E-448C-B9E2-75F3B25B4B8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A45210C-EC0A-4739-9BC5-C78342F0FC8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A45210C-EC0A-4739-9BC5-C78342F0FC8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A45210C-EC0A-4739-9BC5-C78342F0FC8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A45210C-EC0A-4739-9BC5-C78342F0FC8B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
